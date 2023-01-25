@@ -1,21 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GroupPractice
+﻿namespace GroupPractice
 {
-    internal class Person
+  public class Person
+  {
+    //properties
+    public string Name { get; set; }
+    public int Age { get; set; }
+    //constructor 
+    public Person(string _name, int _age)
     {
-        //properties
-        internal string Name { get; set; }
-        internal int Age { get; set; } 
-        //constructor 
-        internal Person(string _name, int _age)
-        {
-            Name= _name;
-            Age= _age;
-        }
+      Name = _name;
+      Age = _age;
     }
+  }
 }
