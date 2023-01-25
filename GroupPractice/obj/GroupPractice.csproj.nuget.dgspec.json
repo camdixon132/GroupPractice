@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj": {}
+    "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj": {}
   },
   "projects": {
-    "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj": {
+    "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj",
         "projectName": "GroupPractice",
-        "projectPath": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj",
-        "packagesPath": "/Users/camerondixon/.nuget/packages/",
-        "outputPath": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/obj/",
+        "projectPath": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj",
+        "packagesPath": "C:\\Users\\Mourad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/camerondixon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mourad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
