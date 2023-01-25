@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mourad\\.nuget\\packages\\": {}
+    "/Users/camerondixon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj",
+      "projectUniqueName": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj",
       "projectName": "GroupPractice",
-      "projectPath": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\GroupPractice.csproj",
-      "packagesPath": "C:\\Users\\Mourad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mourad\\Desktop\\GC Labs\\Group Practice\\GroupPractice\\GroupPractice\\obj\\",
+      "projectPath": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/GroupPractice.csproj",
+      "packagesPath": "/Users/camerondixon/.nuget/packages/",
+      "outputPath": "/Users/camerondixon/Projects/GroupPractice/GroupPractice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mourad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/camerondixon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
